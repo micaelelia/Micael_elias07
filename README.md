@@ -1,4 +1,3 @@
-# Micael_elias07
 # 🤖 Micael Naum Elias 
 **`estudante de ciencias da computação`**
 
@@ -38,11 +37,13 @@ Busco uma experiência que me permita crescer na área e evoluir tanto pessoal q
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-/>
+
 <img 
     align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+          
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
