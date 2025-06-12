@@ -46,4 +46,4 @@ Busco uma experiência que me permita crescer na área e evoluir tanto pessoal q
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
           
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+     
